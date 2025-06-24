@@ -1,7 +1,7 @@
 # my-project
 it's my repository
-# Yandex-Practikum-Projects
-Проекты, выполненные в курсе Яндекс.Практикума "Аналитик данных".
+# Work_Projects
+Проекты, выполненные на рабочиз задачах".
 ## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Яндекс. Практикум "Аналитик данных"</b></a>
 
 
